@@ -45,3 +45,7 @@ pdf file
 eps file
 
 ![eps example](qr_code_examples/title.eps)
+
+## future plans
+- add images to qr codes
+- host a free qr code generator website
